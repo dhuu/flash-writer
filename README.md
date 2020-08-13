@@ -1,12 +1,11 @@
-# PS3 NAND/NOR Flash Writer
+# PS3 NAND/NOR Flash Writer no oficial
 <br/>
 [3.56 and Lower Minimum Version Supported]
 
-Official Thread:
-https://www.psx-place.com/threads/ps3xploit-4-84-hfw-flash-writer-idps-flash-dumpers-v2-0-1-now-install-cfw-from-4-84.23123/
 
-Official HFW Thread:
-https://www.psx-place.com/threads/update-ps3-hfw-hybrid-firmware-4-84-2-ps3xploit-han-flash-tools-restored-for-4-84-ofw-users.23094/
+v2.0.3
+
+Updated To Support 4.86 HFW
 
 v2.0.2
 
